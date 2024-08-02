@@ -1,7 +1,7 @@
 import './App.css';
 import { MyProvider } from './Context/MyContext';
-import DemoCounter from './Pages/DemoCounter/DemoCounter';
-import Home from './Pages/Home/Home';
+import DemoCounter from './Pages/DemoCounter';
+import Home from './Pages/Home';
 
 function App() {
   return (
